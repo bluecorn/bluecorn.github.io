@@ -21,3 +21,7 @@ Thumbs.db
 
 # FVM Version Cache
 .fvm/
+
+# Claude Code — personal/local overrides (project-shared config under .claude/ stays tracked)
+.claude/settings.local.json
+.claude.local.md
