@@ -1,3 +1,0 @@
-[submodule "upstream/jaspr"]
-	path = upstream/jaspr
-	url = https://github.com/schultek/jaspr.git
